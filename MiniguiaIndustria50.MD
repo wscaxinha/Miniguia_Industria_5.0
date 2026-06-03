@@ -68,6 +68,10 @@ Resposta muito ampla.
 
 ## 📌 Prompt Melhorado
 
+```
+Explique a Indústria 5.0 de forma simples, destacando as diferenças para a Indústria 4.0 e apresentando exemplos reais.
+```
+
 ### Indústria 5.0: Explicação Simples e Exemplos
 
 A **Indústria 5.0** é a evolução do paradigma industrial que reorienta o desenvolvimento tecnológico para servir equilibradamente à **sustentabilidade**, à **resiliência** e ao **bem-estar do trabalhador**. Ela não substitui a Indústria 4.0, mas a aprimora, movendo o foco do valor exclusivo para o acionista (*shareholder*) para o valor distribuído entre todos os atores da sociedade (*stakeholder*).
