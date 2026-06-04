@@ -1,8 +1,6 @@
 # 🚀 Objetivo
 
-<p style="text-align: justify;">
 Este desafio tem como objetivo estudar a Era da **Indústria 5.0**, explorando seus principais conceitos, tecnologias, benefícios e desafios. Utilizando o NotebookLM e recursos de Inteligência Artificial, a pesquisa busca organizar e analisar informações de fontes confiáveis para compreender como a integração entre seres humanos e tecnologias inteligentes contribui para processos industriais mais eficientes, sustentáveis, resilientes e centrados nas pessoas. Como resultado, foi desenvolvido um miniguia de estudos contendo resumos, glossário e prompts reutilizáveis para apoiar futuras consultas e revisões sobre o tema.
-</p>
 
 # 🔗 Fontes Utilizadas
 
@@ -38,10 +36,9 @@ Link: [Site](https://www.portaldaindustria.com.br/industria-de-a-z/industria-5-0
 ```
 O que é industria 5.0?
 ```
-<p style="text-align: justify;">
 A Indústria 5.0 é definida como um novo paradigma industrial que atua como uma evolução e um complemento à Indústria 4.0, e não como sua substituta
 
-<p style="text-align: justify;">
+
 Enquanto a fase anterior (4.0) focou prioritariamente na digitalização, automação e eficiência dos processos (uma visão tecnocêntrica), a Indústria 5.0 reorienta esse desenvolvimento tecnológico para que ele sirva de forma equilibrada à sustentabilidade, à resiliência e ao bem-estar dos trabalhadores.
 
 
@@ -138,9 +135,119 @@ Foram criados prompts mais específicos e contextualizados, como:
 
 As respostas passaram a apresentar informações mais completas, exemplos reais e comparações que facilitaram a compreensão dos conceitos estudados.
 
-<p style="text-align: justify;">
-Outro exemplo de parágrafo justificado usando a tag de parágrafo com estilo inline.
-</p>
+# 📖 Resumos
+
+## O que é Indústria 5.0?
+
+A Indústria 5.0 representa uma nova fase da transformação industrial, onde pessoas e tecnologias inteligentes trabalham juntas para criar processos mais eficientes, sustentáveis e personalizados.
+
+## Principais Características
+
+- Colaboração entre humanos e robôs.
+- Uso de Inteligência Artificial.
+- Foco na sustentabilidade.
+- Produção personalizada.
+- Bem-estar dos trabalhadores.
+
+## Tecnologias Utilizadas
+
+A Indústria 5.0 utiliza tecnologias como Inteligência Artificial, Internet das Coisas (IoT), Big Data, Computação em Nuvem e Robôs Colaborativos (Cobots).
+
+## Diferença entre Indústria 4.0 e 5.0
+
+Enquanto a Indústria 4.0 prioriza a automação e a digitalização dos processos, a Indústria 5.0 busca equilibrar tecnologia e participação humana, colocando as pessoas no centro das decisões.
+
+## Benefícios
+
+- Maior produtividade.
+- Produtos personalizados.
+- Redução de desperdícios.
+- Melhor qualidade de vida no trabalho.
+- Processos mais sustentáveis.
+
+## Desafios
+
+- Alto investimento em tecnologia.
+- Necessidade de capacitação profissional.
+- Segurança de dados.
+- Adaptação das empresas às novas tecnologias.
+
+## Impactos no Mercado de Trabalho
+
+Os profissionais precisarão desenvolver habilidades técnicas e comportamentais para trabalhar em conjunto com sistemas inteligentes, robôs colaborativos e ferramentas de Inteligência Artificial.
+
+# 📚 Glossário
+
+## Conceitos Fundamentais
+
+### 🔹 Indústria 5.0
+
+Novo paradigma industrial que evolui a partir da Indústria 4.0, combinando tecnologias avançadas com foco na sustentabilidade, resiliência e bem-estar humano.
+
+### 🔹 Humanocentrismo (Human-Centric)
+
+Abordagem que coloca as pessoas no centro dos processos produtivos, valorizando suas habilidades, criatividade e tomada de decisão.
+
+### 🔹 Sustentabilidade
+
+Prática de desenvolver processos industriais que reduzam impactos ambientais, utilizem recursos de forma eficiente e promovam a economia circular.
+
+### 🔹 Resiliência
+
+Capacidade da indústria de se adaptar e se recuperar rapidamente diante de crises, mudanças de mercado ou eventos inesperados.
+
+### 🔹 Sociedade 5.0
+
+Conceito criado no Japão que busca utilizar tecnologias avançadas para solucionar desafios sociais e melhorar a qualidade de vida da população.
+
+---
+
+## Tecnologias e Processos
+
+### 🔹 Cobots (Robôs Colaborativos)
+
+Robôs projetados para trabalhar em conjunto com seres humanos, aumentando a produtividade, a segurança e a eficiência das operações.
+
+### 🔹 Personalização em Massa (Mass Personalization)
+
+Capacidade de produzir produtos personalizados em larga escala, atendendo às necessidades específicas de cada cliente.
+
+### 🔹 Transição Gêmea (Twin Transition)
+
+Integração simultânea da transformação digital e da sustentabilidade ambiental para criar uma indústria mais inteligente e sustentável.
+
+### 🔹 Gêmeos Digitais (Digital Twins)
+
+Representações virtuais de produtos, equipamentos ou processos reais, utilizadas para monitoramento, simulação e otimização.
+
+### 🔹 Bioeconomia
+
+Modelo econômico baseado no uso sustentável de recursos biológicos renováveis para a produção de bens, energia e serviços.
+
+---
+
+## Gestão e Sociedade
+
+### 🔹 Stakeholder Value (Valor das Partes Interessadas)
+
+Modelo de gestão que busca gerar valor para todos os envolvidos no negócio, incluindo colaboradores, clientes, fornecedores, sociedade e meio ambiente.
+
+### 🔹 Neoindustrialização
+
+Estratégia de desenvolvimento industrial que combina inovação tecnológica, geração de empregos qualificados e sustentabilidade.
+
+### 🔹 Ecossistemas de Aprendizagem (Learning Ecosystems)
+
+Ambientes colaborativos que promovem a troca de conhecimento, capacitação contínua e desenvolvimento de novas competências.
+
+### 🔹 Desemprego Tecnológico
+
+Fenômeno causado pela substituição de determinadas atividades humanas por sistemas automatizados, exigindo requalificação profissional.
+
+### 🔹 Cidades Inteligentes (Smart Cities)
+
+Cidades que utilizam tecnologias digitais, sensores e inteligência artificial para melhorar serviços públicos, mobilidade, segurança e qualidade de vida.
+
 
 
 
