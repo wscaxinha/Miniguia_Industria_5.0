@@ -397,7 +397,7 @@ Um dos principais desafios da Indústria 5.0 é a necessidade de capacitação c
 
 ## 💡 Considerações Finais
 
-O desenvolvimento deste caderno temático permitiu compreender que a Indústria 5.0 não se trata apenas de inovação tecnológica, mas de uma nova forma de pensar a relação entre tecnologia, pessoas e sociedade. Com o apoio do NotebookLM e da Inteligência Artificial, foi possível organizar conhecimentos, analisar fontes confiáveis e consolidar aprendizados sobre um dos temas mais relevantes para o futuro da indústria e da transformação digital.
+O desenvolvimento deste miniguia permitiu compreender que a Indústria 5.0 não se trata apenas de inovação tecnológica, mas de uma nova forma de pensar a relação entre tecnologia, pessoas e sociedade. Com o apoio do NotebookLM e da Inteligência Artificial, foi possível organizar conhecimentos, analisar fontes confiáveis e consolidar aprendizados sobre um dos temas mais relevantes para o futuro da indústria e da transformação digital.
 
 
 
