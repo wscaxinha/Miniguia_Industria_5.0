@@ -1,6 +1,8 @@
 # 🚀 Objetivo
 
+<p style="text-align: justify;">
 Este desafio tem como objetivo estudar a Era da **Indústria 5.0**, explorando seus principais conceitos, tecnologias, benefícios e desafios. Utilizando o NotebookLM e recursos de Inteligência Artificial, a pesquisa busca organizar e analisar informações de fontes confiáveis para compreender como a integração entre seres humanos e tecnologias inteligentes contribui para processos industriais mais eficientes, sustentáveis, resilientes e centrados nas pessoas. Como resultado, foi desenvolvido um miniguia de estudos contendo resumos, glossário e prompts reutilizáveis para apoiar futuras consultas e revisões sobre o tema.
+</p>
 
 # 🔗 Fontes Utilizadas
 
@@ -31,15 +33,17 @@ Link: [Site](https://www.portaldaindustria.com.br/industria-de-a-z/industria-5-0
 
 # Testes de Prompts
 
-### 📌 Prompt inicial - Genérico
+### 📌 Prompt inicial 
 
 ```
 O que é industria 5.0?
 ```
-
+<p style="text-align: justify;">
 A Indústria 5.0 é definida como um novo paradigma industrial que atua como uma evolução e um complemento à Indústria 4.0, e não como sua substituta
 
+<p style="text-align: justify;">
 Enquanto a fase anterior (4.0) focou prioritariamente na digitalização, automação e eficiência dos processos (uma visão tecnocêntrica), a Indústria 5.0 reorienta esse desenvolvimento tecnológico para que ele sirva de forma equilibrada à sustentabilidade, à resiliência e ao bem-estar dos trabalhadores.
+
 
 Os pilares fundamentais que caracterizam a Indústria 5.0 são:
 
@@ -133,6 +137,10 @@ Foram criados prompts mais específicos e contextualizados, como:
 **Resultado:**
 
 As respostas passaram a apresentar informações mais completas, exemplos reais e comparações que facilitaram a compreensão dos conceitos estudados.
+
+<p style="text-align: justify;">
+Outro exemplo de parágrafo justificado usando a tag de parágrafo com estilo inline.
+</p>
 
 
 
