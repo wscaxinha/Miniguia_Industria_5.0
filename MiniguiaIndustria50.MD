@@ -248,6 +248,130 @@ Fenômeno causado pela substituição de determinadas atividades humanas por sis
 
 Cidades que utilizam tecnologias digitais, sensores e inteligência artificial para melhorar serviços públicos, mobilidade, segurança e qualidade de vida.
 
+# 🔄 Prompts Reutilizáveis
+
+Os prompts abaixo foram elaborados para apoiar futuras revisões, pesquisas e aprofundamentos sobre a Indústria 5.0. Eles podem ser reutilizados em ferramentas de Inteligência Artificial para explorar conceitos, tecnologias, desafios e tendências relacionadas ao tema.
+
+---
+
+## 📖 1. Conceitos e Evolução Paradigmática
+
+### Comparação entre Indústria 4.0 e 5.0
+
+```text
+Compare as prioridades da Indústria 4.0 e da Indústria 5.0, destacando a transição de um modelo tecnocêntrico focado na eficiência para um modelo antropocêntrico focado no propósito.
+```
+
+### Os Três Pilares da Indústria 5.0
+
+```text
+Explique como os eixos de sustentabilidade, resiliência e foco no ser humano interagem para formar a base da Indústria 5.0.
+```
+
+### Sociedade 5.0 vs. Indústria 5.0
+
+```text
+Analise a relação entre Sociedade 5.0 e Indústria 5.0, destacando como a tecnologia pode contribuir para melhorar a qualidade de vida e os processos produtivos.
+```
+
+---
+
+## 🤖 2. Colaboração Homem-Máquina e Tecnologias
+
+### Robôs Colaborativos (Cobots)
+
+```text
+Descreva o papel dos robôs colaborativos (cobots) na Indústria 5.0 e explique como eles complementam o trabalho humano.
+```
+
+### Tecnologias Habilitadoras
+
+```text
+Liste as principais tecnologias da Indústria 5.0, como IA, IoT, 5G, Gêmeos Digitais e Blockchain, explicando suas aplicações práticas.
+```
+
+### Inteligência Artificial na Produção
+
+```text
+Explique como a Inteligência Artificial e a Visão Computacional podem otimizar processos produtivos e prever falhas em ambientes industriais.
+```
+
+---
+
+## 🌱 3. Sustentabilidade e Valor Social
+
+### Economia Circular
+
+```text
+Explique como a Indústria 5.0 utiliza os princípios da economia circular para reduzir desperdícios e promover a sustentabilidade.
+```
+
+### Valor para as Partes Interessadas
+
+```text
+Analise a mudança do modelo focado no acionista para o modelo focado nas partes interessadas (stakeholders) e seus benefícios para a sociedade.
+```
+
+### Cidades Inteligentes
+
+```text
+Explore como os princípios da Indústria 5.0 podem contribuir para o desenvolvimento de cidades inteligentes e sustentáveis.
+```
+
+---
+
+## 🇧🇷 4. Cenário Brasileiro e Desafios
+
+### Desafios para o Brasil
+
+```text
+Avalie os principais desafios para a implementação da Indústria 5.0 no Brasil, considerando infraestrutura, capacitação profissional e transformação digital.
+```
+
+### Setores Estratégicos
+
+```text
+Identifique os setores brasileiros com maior potencial para adoção da Indústria 5.0 e apresente exemplos de aplicação.
+```
+
+### Neoindustrialização
+
+```text
+Explique como a Neoindustrialização pode contribuir para a competitividade da indústria brasileira e para a geração de empregos qualificados.
+```
+
+---
+
+## 🎓 5. Futuro do Trabalho e Educação
+
+### Educação 5.0 e Requalificação Profissional
+
+```text
+Discuta a importância da capacitação contínua e do desenvolvimento de competências técnicas e socioemocionais para a Indústria 5.0.
+```
+
+### Desemprego Tecnológico
+
+```text
+Analise os impactos da automação no mercado de trabalho e apresente estratégias para minimizar o desemprego tecnológico.
+```
+
+### Ecossistemas de Aprendizagem
+
+```text
+Explique como empresas, universidades e governos podem colaborar para acelerar a formação de profissionais preparados para a Indústria 5.0.
+```
+
+---
+
+## 💡 Prompt Bônus para Revisão Rápida
+
+```text
+Com base nos conceitos da Indústria 5.0, crie um resumo estruturado contendo definição, tecnologias, benefícios, desafios, impactos no mercado de trabalho e perspectivas futuras.
+```
+
+
+
 
 
 
